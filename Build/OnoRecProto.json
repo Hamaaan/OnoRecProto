@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "SeikatsuRecordingProto",
+"productName": "LifeRec",
 "productVersion": "0.1",
 "dataUrl": "OnoRecProto.data.unityweb",
 "wasmCodeUrl": "OnoRecProto.wasm.code.unityweb",
